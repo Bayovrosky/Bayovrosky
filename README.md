@@ -6,7 +6,7 @@ A budding software engineer, I embarked on my tech journey at the start of 2023 
 
 ## Skills 
 
-* 📱 Js
+* 📱 JS
 
 * 💻 Html, Css
 
