@@ -1,4 +1,4 @@
-(https://pbs.twimg.com/profile_banners/1243393443201605634/1642376809/1080x360)
+https://pbs.twimg.com/profile_banners/1243393443201605634/1642376809/1080x360
 
 # Ogunwomoju Adebayo
 
