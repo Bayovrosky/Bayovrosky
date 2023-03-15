@@ -10,6 +10,10 @@ A budding software engineer, I embarked on my tech journey at the start of 2023 
 
 * 💻 Html, Css
 
+
+
+
+## Skills in Progress
 - 🔭 I’m currently working on getting my SE degree 
 
 - 🌱 I’m currently learning C / Python  
