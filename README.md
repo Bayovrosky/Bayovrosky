@@ -13,8 +13,11 @@ A budding software engineer, I embarked on my tech journey at the start of 2023 
 - 🔭 I’m currently working on getting my SE degree 
 
 - 🌱 I’m currently learning C / Python  
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bayovrosky&theme=dark&show_icons=true
-- 
+
+## Overall GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bayovrosky)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Bayovrosky)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/Bayovrosky)  
 
 
