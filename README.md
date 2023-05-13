@@ -1,4 +1,4 @@
-![Budding Software Engineer](https://pbs.twimg.com/profile_banners/1243393443201605634/1642376809/1080x360)
+![Budding Software Engineer](https://media.licdn.com/dms/image/D4D16AQHOgAGlLRYiuQ/profile-displaybackgroundimage-shrink_350_1400/0/1683975259820?e=1689206400&v=beta&t=92P4D7lwBhhnrroBb4Wpjy6-iePGo_65SHjY74OF72A)
 
 # Ogunwomoju Adebayo
 
